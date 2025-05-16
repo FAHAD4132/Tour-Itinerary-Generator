@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+ollama
+langchain-ollama
+langchain-core
+python-multipart
+pydantic
+python-dotenv
